@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TakeHomeChallenge</string>
+    <string name="title_user">Title User</string>
+    <string name="searchbar_hint">Search..</string>
+    <string name="favorite_dihapus">Favorite Delete</string>
+    <string name="favorite_ditambahkan">Favorite Added</string>
+    <string name="toolbar_image">Toolbar Image</string>
+    <string name="favorite_items">Favorite Items</string>
+    <string name="no_data_found">No Data found</string>
+</resources>
