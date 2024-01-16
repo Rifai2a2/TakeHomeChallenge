@@ -12,7 +12,6 @@ This is the result of the MSIB BIGIO Mobile Developer TakeHomeChallenge Applicat
 - [APK Link](#apk-link)
 
 ## <a name="features"></a> Features :
-You may list what feature you created, example :
 - List of character
 - Detail character
 - Favorite character
@@ -21,7 +20,6 @@ You may list what feature you created, example :
 
 
 ## <a name="libraries"></a> Libraries :
-You may list what libraries you used in this project, example :
 - Android Studio kotlin (2022.2/ Flamingo)
 - Retrofit
 - Glide
